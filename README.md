@@ -8,10 +8,10 @@ http://www.biomimicrygermany.de/
 
 
 The 4DSoft project intends to allow biology & biomimicry to be combined & repurposed to accelerate innovation.
-It uses natural language processing to mine the worlds scientific papers for biomimciry examples that are then related to a meta data framework.
-The meta data framework provides a meta data schema to describe real world engineering problems.
+It uses natural language processing to mine the world's scientific papers for examples of biological problems that have been solved that are then related to a meta data framework of design. The solutions are expressed in terms of changes which were made to the biological system to give it new or better functionality, and these changes can then be coded into a meta data framework or schema based in engineering (TRIZ) which defines and solves problems in terms of design changes.
 
-Biologists will have the unique opportunity to help contribute to the worlds engineering and sustainability problems, because their research will be accessable to engineers in a way that maps their engineering issues to solutions found in Biology.
+
+This approach gives biologists will have the power to help contribute to the world's engineering and sustainability problems, because their research will be accessible to engineers in a way that maps their engineering issues onto solutions found in Biology. And although the project has as its outcome the provision of biomimetic solutions to design problems, in itself it doesn't use biomimicry at all! Thus it does not rely on the small number of examples of biomimicry available to date, but covers the entire scope in a single method. 
 
 More information will be made available as we extend the tools towards the launch of this cloud based tool.
 
@@ -41,7 +41,7 @@ The following commands are general commands.
 
 The following commands are used to push your changes to GitHub:
 
-- "git pull --rebase". This will pul the latest changes from GitHub (in case anyone else has make chanes)
+- "git pull --rebase". This will pul the latest changes from GitHub (in case anyone else has make changes)
 - "git add .".  This will add all changes you have made locally to the git repo.
 - "git commit -am 'your comment'". This will commit all your local changes to the local commit tree with a comment to tell others what the nature of your change is.
 - "git push". This will push your local commit up to GitHub.
