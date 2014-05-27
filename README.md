@@ -3,16 +3,15 @@
 This is a web site for the 4DSoft Biomimicry Project.
 
 
-
 More general information about us is here:
 http://www.biomimicrygermany.de/
 
 
-The 4DSoft project intentds to allow biology & biomimicry to be combined & repurposed to accelerate innovation.
+The 4DSoft project intends to allow biology & biomimicry to be combined & repurposed to accelerate innovation.
 It uses natural language processing to mine the worlds scientific papers for biomimciry examples that are then related to a meta data framework.
 The meta data framework provides a meta data schema to describe real world engineering problems.
 
-Biologists will have the unique opportunity to help solve the worls engineering and sustainability probems.
+Biologists will have the unique opportunity to help contribute to the worlds engineering and sustainability problems, because their research will be accessable to engineers in a way that maps their engineering issues to solutions found in Biology.
 
 More information will be made available as we extend the tools towards the launch of this cloud based tool.
 
@@ -22,6 +21,10 @@ An Editor only needs the following tools installed on their laptop:
 
 - Git. http://git-scm.com/downloads
 - Brackets. http://brackets.io
+
+When you install Git on Windows use these settings:
+https://raw.githubusercontent.com/zaggino/brackets-git/master/screenshots/gitInstall.png
+
 
 Now your ready to pull the code from Github. You can find more help here:
 https://help.github.com/
