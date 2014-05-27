@@ -22,6 +22,11 @@ An Editor only needs the following tools installed on their laptop:
 - Git. http://git-scm.com/downloads
 - Brackets. http://brackets.io
 
+Suggested Brackets extension that makes using Git EASY !
+
+https://github.com/zaggino/brackets-git
+
+
 When you install Git on Windows use these settings:
 https://raw.githubusercontent.com/zaggino/brackets-git/master/screenshots/gitInstall.png
 
