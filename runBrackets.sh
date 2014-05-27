@@ -9,5 +9,4 @@ echo $DIR
 # Open Brackets (may be different on a Mac or Linux)
 BRACKETSPATH="C:\Program Files (x86)\Brackets\Brackets.exe"
 #BRACKETSPATH="/C/Program Files (x86)/Brackets/Brackets.exe"
-start  $BRACKETSPATH - $DIR 
-
+start  $BRACKETSPATH - $DIR
