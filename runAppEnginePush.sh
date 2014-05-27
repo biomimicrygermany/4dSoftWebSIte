@@ -1,0 +1,1 @@
+appcfg.py –-no_cookies update --oauth2 .
