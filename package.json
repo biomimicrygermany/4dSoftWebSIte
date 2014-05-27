@@ -1,0 +1,23 @@
+{
+  "name": "4dsoft.biomimicrygermany.de",
+  "version": "0.0.1",
+  "description": "Main Web site of 4dsoft project",
+  "main": "server.js",
+  "bin": {
+    "4dsoft.biomimicrygermany.de": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:biomimicrygermany/4dSoftWebSIte.git"
+  },
+  "author": "gerard webb",
+  "license": "BSD",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "ungit": "^0.8.1"
+  }
+}

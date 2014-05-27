@@ -1,12 +1,13 @@
-REM Run the app engine server - windows only
+REM Run the AppEngine server - windows only
 
 @echo off
-
-
 
 SET CURRENTPATH=%cd%
 echo CURRENTPATH : %CURRENTPATH%
 
 @echo off
+echo Starting the AppEngine Server.......
 
-dev_appserver.py .
+REM dev_appserver.py ./
+
+dev_appserver.py ./ --port=9999 --clear_datastore yes

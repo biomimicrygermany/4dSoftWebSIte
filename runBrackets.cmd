@@ -14,3 +14,5 @@ Rem In this case its public
 
 
 call %BRACKETSPATH% %CURRENTPATH%/public
+
+
